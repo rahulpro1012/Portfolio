@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+html{
+   background-color: #13274F;
+   /* background: rgb(4,21,79);
+   background: linear-gradient(180deg, rgba(4,21,79,1) 0%, rgba(52,59,70,1) 88%, rgba(255,222,33,1) 100%); */
+}
+
+
+
+.header-h{
+    height: 85vh;
+}
+.height-30{
+    width: 15vw;
+}
+
+.height-70{
+    width: 85vw;
+}
